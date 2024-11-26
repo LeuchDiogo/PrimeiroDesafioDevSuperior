@@ -1,4 +1,4 @@
-#Primeiro Desafio - Curso Java Spring Professional da DevSuperior
+Primeiro Desafio - Curso Java Spring Professional da DevSuperior
 
 Este repositório contém a solução para o primeiro desafio do curso Java Spring Professional oferecido pela escola DevSuperior. O objetivo é explorar conceitos fundamentais de injeção de dependência e componentes no framework Spring.
 
