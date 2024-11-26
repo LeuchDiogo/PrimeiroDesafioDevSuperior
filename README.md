@@ -1,16 +1,17 @@
-Primeiro Desafio - Curso Java Spring Professional da DevSuperior
+# Primeiro Desafio  
+# Curso Java Spring Professional da DevSuperior
 
 Este repositório contém a solução para o primeiro desafio do curso Java Spring Professional oferecido pela escola DevSuperior. O objetivo é explorar conceitos fundamentais de injeção de dependência e componentes no framework Spring.
 
-Funcionalidades
+ ## Funcionalidades
 
-Implementação de serviços utilizando injeção de dependência.
+   Implementação de serviços utilizando injeção de dependência.
 
-Demonstração do funcionamento de @Autowired para gerenciar dependências.
+  Demonstração do funcionamento de @Autowired para gerenciar dependências.
 
-Cálculo e utilização de serviços relacionados a um serviço de desconto  e fretes.
+  Cálculo e utilização de serviços relacionados a um serviço de desconto  e fretes.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Java
 
@@ -18,9 +19,9 @@ Spring Framework
 
 Maven
 
-IDE de preferência (IntelliJ)
+IDE  (IntelliJ)
 
-Como Executar o Projeto
+## Como Executar o Projeto
 
 Clone o repositório:
 
@@ -40,7 +41,7 @@ Localize a classe principal: ComponentesEInjecaoDeDependenciaApplication.java.
 
 Rode como uma aplicação Spring Boot.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 src/main/java: Contém a lógica principal da aplicação.
 
@@ -48,6 +49,6 @@ Pacote de serviços demonstrando injeção.
 
 src/main/resources: Configurações do Spring Boot.
 
-Autor
+### Autor
 
 Projeto desenvolvido por LeuchDiogo como parte do curso DevSuperior.
